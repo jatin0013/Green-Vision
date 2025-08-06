@@ -1,0 +1,2 @@
+DATABASE_NAME = "Pwskills"
+COLLECTION_NAME ="records"
